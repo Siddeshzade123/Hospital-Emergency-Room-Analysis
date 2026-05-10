@@ -2,12 +2,11 @@
 Hospital Room Analysis project focused on improving hospital efficiency through data analysis. Performed data cleaning, EDA, and analyzed occupancy, patient flow, and resource usage. Built interactive dashboards using Excel, and Power BI to track KPIs and support decision-making.
 
 Hospital Emergency Room Analysis
-📌 Overview
 
+📌 Overview
 This project analyzes Emergency Room (ER) data to evaluate patient flow, waiting times, and hospital performance. The goal is to generate actionable insights that improve operational efficiency, optimize resource allocation, and enhance patient experience.
 
 📊 Dataset
-
 The dataset includes ER records with the following attributes:
 
 Patient ID
